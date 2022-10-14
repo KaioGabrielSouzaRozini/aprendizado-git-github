@@ -1,0 +1,1 @@
+branchs são um tipo de modo onde você pode separar varias versões do mesmo projeto ou talvez varias partes do mesmo
