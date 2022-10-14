@@ -1,0 +1,20 @@
+git init
+touch
+mkdir
+rm
+git add .
+git commit -m ""
+git branch
+git checkout -b nome-da-branch
+git push origin nome-da-branch
+git merge nome-da-branch
+git checkout nome-da-branch
+git status
+git pull origin nome-da-brench
+git -D 
+git reset HEAD -- nome-do-arquivo
+ls
+clear
+git diff
+cd nome-do-diretorio
+cd ..
