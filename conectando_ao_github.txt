@@ -1,0 +1,1 @@
+Famoso git push origin master ou outra branch, alem do link utilizado para conectar seu repositorio local ao do github e tornalo publico
