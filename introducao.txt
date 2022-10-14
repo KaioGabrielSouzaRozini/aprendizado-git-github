@@ -1,0 +1,1 @@
+git e github são ferramentas para salvar seu codigo, compartilha-lo, modificalo simultaneamente com outro desenvolvedor entre outros
